@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&" alt="immdalamin" /></p>
 
 <h3 align="left">Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /></p>
