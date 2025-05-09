@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Md Al-Amim</h1>
 <h3 align="center">A passionate coder from Bangladesh</h3>
 
@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&" alt="immdalamin" /></p>
 
 <h3 align="left">Random Dev Quote:</h3>
-[!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+!(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
