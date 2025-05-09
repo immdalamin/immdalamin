@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Md Al-Amim</h1>
 <h3 align="center">A passionate coder from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immdalamin" alt="immdalamin" /></a> </p>
 
@@ -35,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&" alt="immdalamin" /></p>
 
 <h3 align="left">Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
