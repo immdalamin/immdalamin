@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="hackerboy258258@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hackerboy258258@gmail.com" height="30" width="40" /></a>
+<a href="mailto:hackerboy258258@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" align="center" height="30" /></a>
 <a href="https://fb.com/im.md.alamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="im.md.alamin" height="30" width="40" /></a>
 <a href="https://instagram.com/im.md.alamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.md.alamin" height="30" width="40" /></a>
 <a href="https://twitter.com/md_al_amin_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_al_amin_0" height="30" width="40" /></a>
