@@ -33,8 +33,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immdalamin&show_icons=true&locale=en" alt="GitHub Stats" width="49%" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&" alt="GitHub Streak" width="49%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=immdalamin&show_icons=true&locale=en" alt="GitHub Stats" width="49%" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&" alt="GitHub Streak" width="49%" height="165px"/>
 </p>
 
 <p align="center">
