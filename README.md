@@ -31,16 +31,14 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immdalamin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" /></a>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immdalamin&show_icons=true&locale=en" alt="GitHub Stats" width="49%" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&" alt="GitHub Streak" width="49%" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=immdalamin&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="49%" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immdalamin&theme=dark" alt="GitHub Streak" width="49%" height="165px"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immdalamin&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immdalamin&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="50%" />
 </p>
-
 
 
 <h3 align="left">Random Dev Quote:</h3>
